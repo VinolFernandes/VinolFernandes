@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**VinolFernandes/VinolFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-vinolfernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinol-fernandes/)](https://www.linkedin.com/in/vinol-fernandes/)
 [![Instagram Badge](https://img.shields.io/badge/-vinolfernandes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vinolfernandes/)](https://www.instagram.com/vinolfernandes/)
 [![Medium Badge](https://img.shields.io/badge/-@vinolfernandes20-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vinolfernandes20)](https://medium.com/@vinolfernandes20)
