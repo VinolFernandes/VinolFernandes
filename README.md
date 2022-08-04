@@ -20,6 +20,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Apache Jmeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat-square&logo=Apache-JMeter&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VinolFernandes&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinolFernandes&hide=TeX&layout=compact)
