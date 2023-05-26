@@ -7,6 +7,7 @@
 
 ## ⚡ Technologies
 
+<!-- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=airflow) -->
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
